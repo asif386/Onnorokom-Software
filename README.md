@@ -1,2 +1,2 @@
 # Onnorokom-Software
-This is an ASP.NET core project designed and developed onnorokom software ltd.
+This is an ASP.NET core project designed and developed for Onnorokom Software ltd.
